@@ -41,6 +41,7 @@ class App extends Component {
       <div className='container'>
         <div className='row'>
           <div className='col-sm-6'>
+            testing
             <textarea
               onChange={this.handleChange}
               value={this.state.text}
